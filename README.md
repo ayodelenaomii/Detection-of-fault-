@@ -1,9 +1,11 @@
 ⚡ Power Fault Monitoring System
 
 📌 Overview
+
 I built a Power Fault Monitoring System that detects power faults and sends alerts when an issue occurs. This system simulates power data, trains an AI model to recognize faults, and integrates an alert system for real-time notifications.
 
 🖥️ Features
+
 🚀 1. Power Fault Monitoring Dashboard (Streamlit)
 Developed an interactive dashboard to track power faults visually.
 Simulates real-time monitoring by refreshing every few seconds.
