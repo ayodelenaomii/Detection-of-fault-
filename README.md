@@ -21,17 +21,28 @@ Twilio (SMS notifications) to instantly notify relevant personnel.
 
 
 ⚠️ Challenges Faced
+
 ❌ No Real-Time Data – The system does not use actual sensor readings; it relies on simulated data created with Pandas.
+
 ❌ Limited Training Data – The AI model might not generalize well since it was trained on past, limited data.
+
 ❌ Potential Overfitting – The model performed too well on training data, meaning it may struggle with real-world faults.
 
 
+
  Why This Matters
+ 
 ✅ Early Fault Detection – Power companies can use AI to detect faults before they cause major blackouts.
+
 ✅ Real-Time Monitoring Potential – If connected to live sensors, this system could provide instant updates on power faults.
+
 ✅ Future Smart Grid Integration – With improvements, this could become part of a fully automated power monitoring system.
 
+
 🚀 Next Steps & Future Improvements
+
 Integrate real-time sensor data instead of simulated data.
+
 Improve model generalization with a larger and more diverse dataset.
+
 Deploy the system to the cloud for scalability.
