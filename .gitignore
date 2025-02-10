@@ -2,6 +2,5 @@
 firebase_credentials.json
 .env
 config.yaml
-keys/
-twilio.json
-twilio.env
+
+
