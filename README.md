@@ -46,3 +46,11 @@ Integrate real-time sensor data instead of simulated data.
 Improve model generalization with a larger and more diverse dataset.
 
 Deploy the system to the cloud for scalability.
+
+
+
+
+## 🚀 Live Demo  
+Check out the live Power Fault Monitoring Dashboard:  
+🔗 **[Power Fault Monitoring System](https://2khqsbsndcetvtwvhdhd4c.streamlit.app/)**
+
