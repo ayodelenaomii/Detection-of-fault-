@@ -9,7 +9,7 @@ I built a Power Fault Monitoring System that detects power faults and sends aler
 ###  1. Power Fault Monitoring Dashboard (Streamlit)
 Developed an interactive dashboard to track power faults visually. Simulates real-time monitoring by refreshing every few seconds. Displays key metrics like voltage, frequency, power generation, and fault status.
 
-### 2. AI-Based Fault Detection
+### 2. AI-Based Fault Prediction
 Trained a machine learning model using past power system data. AI learns from features like voltage, frequency, power generation, and past faults to predict potential issues. Identifies faults automatically based on input data.
 
 ### 3. Automated Alert System (Firebase + Twilio)
